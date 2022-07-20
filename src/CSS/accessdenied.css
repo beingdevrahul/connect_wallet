@@ -1,0 +1,13 @@
+.accessdenied-main{
+    background: url('../images/accessdeniedbg.png');
+    min-height: 100vh;
+    width: 100vw;
+}
+.accessdenied-phera{
+    width: 30%;
+}
+@media only screen and (max-width: 600px) {
+    .accessdenied-phera{
+        width: 70%;
+    }
+  }

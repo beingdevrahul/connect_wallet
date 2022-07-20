@@ -1,0 +1,27 @@
+.video-content-text{
+    width: 70%;
+}
+.container-fluid{
+    margin: 0;
+    padding: 0;
+}
+.disconnect-btn-videocontent{
+    height: 60px;
+}
+.videos-details{
+    max-width: 450px;
+}
+@media only screen and (max-width: 600px) {
+    .disconnect-btn-videocontent{
+        height: 45px;
+    }
+    .groupm-logo-videocontent{
+        height: 45px;
+    }
+    .videos-thumbnail{
+        width: 345px;
+    }
+    .videos-details{
+        max-width: 350;
+    }
+  }
